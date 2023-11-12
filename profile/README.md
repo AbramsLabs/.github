@@ -5,6 +5,8 @@ We aim to create apps by the people, for the people with user empowerment as the
 We believe in the super-user and always maintain transparent access to every layer of our apps involving your data.
 
 [NoteBridge](https://notebridge.app/) is our first and most proud application as AbramsLabs Inc., which is built for nerds like ourselves who have a keen interest in midi musical instruments. It is designed to make these devices a part of your every day life, by utilising them as an input device when they're not busy helping you crash that next best beat.
+We respect your memory space, we put great effort to reduce the size of the app. This neat, little app achieves all of its functionalities under mere 15 megabytes. This is our tribute to the times when apps didn't take a big chunk of your hard-drive space.
+
 
 <!--
 
