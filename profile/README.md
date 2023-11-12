@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+We aim to create apps by the people, for the people with user empowerment as the main focus.
+We believe in the super-user and always maintain transparent access to every layer of our apps involving your data.
+
 <!--
 
 **Here are some ideas to get you started:**
